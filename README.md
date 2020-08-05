@@ -1,5 +1,5 @@
 ### Hi there 👋
-![github](https://github-readme-stats.vercel.app/api?username=merko&show_icons=true&theme=radical)
+![github](https://github-readme-stats.vercel.app/api?username=merko&show_icons=true&theme=onedark&hide=contribs,issues,prs)
 
 
 <!--
